@@ -1,3 +1,4 @@
 data
 fashion_venv
 frontend
+*.pth
